@@ -1,28 +1,26 @@
-### Hello, I am Rishi Kora 👋
+Hello, I am Rishi Kora 👋
 
-- 🔭 I’m a Data Scientist currently working on few Data Science projects 
-- 🌱 I’m currently learning Neural networks and Deep learning in Artificial Intelligence
-- 👯 I’m looking to collaborate on Data Science Projects
-- 🤔 I’m looking for help with Artificial Intelligence
-- 💬 Ask me about Python, Mongo, NumPy, Pandas, Machine Learning, Deep Learning, Power BI & Tableau
-- 📫 How to reach me: premkumar.kora@gmail.com
+- 🔭 I’m a currently Final year student from Sri Venkateswara College of Engineering 
+- 🌱 I’m currently learning Machine learning in Artificial Intelligence
+- 👯 I’m looking to collaborate on Data Analytics  Projects
+- 🤔 I’m looking for help with Deep Learning
+- 💬 Ask me about Python,  NumPy, Pandas,  Power BI & Tableau
+- 📫 How to reach me: korarishi@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Every data set has stories to tell, I listen to them carefully and translate them into meaningful model
+- ⚡ Fun fact: Predictive Analysis saves Time, Money and lives
 
 ### General Skills
 -⚡Data Visualization<br>
 -⚡Machine Learning<br>
--⚡Database Structures & Algorithms<br>
+-⚡NoSQL<br>
 -⚡Statistical Analysis<br>
--⚡Process, Performance & Program Management<br>
--⚡Enterprise IT Systems Product/Technology and delivery <br>
+
 
 
 ### Technical Skills
--⚡My SQL , SQL Server, Oracle, Mongo<br>
+-⚡My SQL ,  Mongo<br>
 -⚡SQL & NOSQL <br>
--⚡Python, R Programming, Scikit-learn, Pandas, Numpy, java, C++, Cold Fusion, HTML, Java Script, Struts<br>
--⚡Matplotlib, Seaborn, plotly-express, streamlit<br>
+-⚡Python, R Programming, Scikit-learn, Pandas, Numpy, HTML, Java Script, Struts<br>
+-⚡Matplotlib, Seaborn<br>
 -⚡Machine Learning<br>
--⚡Tableau, Power Bi, Zoho Analytics <br><br>
-
+-⚡Tableau, Power Bi <br><br>
