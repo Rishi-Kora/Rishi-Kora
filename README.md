@@ -1,8 +1,8 @@
 Hello, I am Rishi Kora 👋
 
-- 🔭 I’m a currently Final year student from Sri Venkateswara College of Engineering 
+- 🔭 I’m a currently PG student from University of Essex 
 - 🌱 I’m currently learning Machine learning in Artificial Intelligence
-- 👯 I’m looking to collaborate on Data Analytics  Projects
+- 👯 I’m looking to collaborate on Data Analytics Projects
 - 🤔 I’m looking for help with Deep Learning
 - 💬 Ask me about Python,  NumPy, Pandas,  Power BI & Tableau
 - 📫 How to reach me: korarishi@gmail.com
