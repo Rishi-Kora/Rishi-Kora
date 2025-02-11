@@ -1,6 +1,6 @@
 Hello, I am Rishi Kora 👋
 
-- 🔭 I’m pursuing MSc in Data Science at The University of Essex 
+- 🔭 I have completed my Masters in Data Science at The University of Essex 
 - 🌱 I’m currently learning Machine learning in Artificial Intelligence
 - 👯 I’m looking to collaborate on Data Analytics Projects
 - 🤔 I’m looking for help with Deep Learning
