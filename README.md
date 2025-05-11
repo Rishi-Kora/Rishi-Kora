@@ -78,7 +78,7 @@ Working on to finetune a small Open Source LLM model to answer Q&A about a compa
 - **MSc Data Science**, University of Essex (2024)  
 - **AWS Certified Machine Learning – Specialty** (2025)  
 
----
+
 
 ## 🌐 Additional
 
