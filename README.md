@@ -35,10 +35,10 @@ I’m actively looking for roles in LLM Engineering—fine-tuning, RAG systems, 
 
 | **Modeling & NLP**         | **DevOps & Cloud**         | **Languages & Tools**      |
 | -------------------------- | -------------------------- | -------------------------- |
-| • Transformers (BERT, GPT) | • AWS SageMaker            | • Python, JavaScript       |
+| • Transformers (BERT, GPT) | • LangChain                | • Python, JavaScript       |
 | • Prompt Engineering       | • Machine Learning         | • PyTorch, TensorFlow      |
 | • Tokenizers & Pipelines   | • CI/CD - GitHub Actions   | • Hugging Face Transformers |
-| • RAG & Retrieval          | • REST APIs                | • Scikit-Learn, Gradio     |
+| • RAG & Retrieval          | • Vector Database          | • Scikit-Learn, Gradio     |
 
 
 
