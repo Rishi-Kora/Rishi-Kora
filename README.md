@@ -24,7 +24,7 @@ Working on to finetune a small Open Source LLM model to answer Q&A about a compa
 📫 **Get in Touch:**  
 [✉️ korarishi@gmail.com](mailto:korarishi@gmail.com) • [LinkedIn](https://www.linkedin.com/in/rishikora/) • [GitHub](https://github.com/Rishi-Kora)  
 
----
+
 
 ## 🚀 Core Skills
 
@@ -35,27 +35,27 @@ Working on to finetune a small Open Source LLM model to answer Q&A about a compa
 | • Tokenizers & Pipelines   | • CI/CD - GitHub Actions   | • Hugging Face Transformers |
 | • RAG & Retrieval          | • REST APIs                | • Scikit-Learn, Gradio     |
 
----
+
 
 ## 📂 Featured LLM Projects
 
 
-1. **[College-Brochure-using-HuggingFace](https://github.com/Rishi-Kora/College-Brochure-using-HuggingFace)**  
+1. **[College Brochure using HuggingFace](https://github.com/Rishi-Kora/College-Brochure-using-HuggingFace)**  
    Generate AI-powered summaries for college brochures using Hugging Face models to help students know about the courses in college instead of browsing through the website.
 
 2. **[Pipelines-using-HuggingFace](https://github.com/Rishi-Kora/Pipelines-using-HuggingFace)**  
    Hands-on guide to Hugging Face pipelines: loading pretrained models, tokenization, and GPU-accelerated inference. 
 
-3. **[Tokenizers-using-HuggingFace](https://github.com/Rishi-Kora/Tokenizers-using-HuggingFace)**  
+3. **[Tokenizers using HuggingFace](https://github.com/Rishi-Kora/Tokenizers-using-HuggingFace)**  
    Deep dive into tokenizer internals (LLaMA, PHI-3, StarCoder2) with examples for encoding, decoding, and token visualization. 
 
-4. **[Fashion-Customer-Service-Assistant-using-HuggingFace](https://github.com/Rishi-Kora/Fashion-Customer-Service-Assistant-using-HuggingFace)**  
+4. **[Fashion Customer Service Assistant using HuggingFace](https://github.com/Rishi-Kora/Fashion-Customer-Service-Assistant-using-HuggingFace)**  
    Domain-specific assistant demo: fine-tuned transformer serving as a customer-service chatbot.
 
-5. **[Meeting-Minutes-using-recording-from-the-meeting](https://github.com/Rishi-Kora/Meeting-Minutes-using-HuggingFace)**  
+5. **[Meeting Minutes using recording from the meeting](https://github.com/Rishi-Kora/Meeting-Minutes-using-HuggingFace)**  
    Generate professional meeting minutes from audio recordings using state-of-the-art models from Hugging Face Transformers..
 
----
+
 
 ## 📊 Selected Data Science Work
 
@@ -71,7 +71,7 @@ Working on to finetune a small Open Source LLM model to answer Q&A about a compa
 
 *(More notebooks in my [repo](https://github.com/Rishi-Kora?tab=repositories) showcase end-to-end analytics & ML pipelines.)* :contentReference[oaicite:4]{index=4}
 
----
+
 
 ## 🎓 Education & Certifications
 
