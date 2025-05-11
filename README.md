@@ -18,7 +18,7 @@ I’m actively looking for roles in LLM Engineering—fine-tuning, RAG systems, 
 –  Transformer fine-tuning pipelines  
 –  Hugging Face tokenization & model‐optimization  
 –  Productionizing LLM APIs<br>
-–  Retrieval Augment Generation<br>
+–  Retrieval Augment Generation, LangChain, Vector Database<br>
 –  Implementing Multi Modal Chat with Gradio<br>
 –  Evaluating Open Source and Frontier Models<br>
 –  Evaluvating models for specific project using Scale, Hugging Face and Vellum leaderboards<br>
