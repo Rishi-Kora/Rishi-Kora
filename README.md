@@ -1,7 +1,7 @@
 ![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen)
 # Hi, I’m **Rishi Kora** 👋  
 #### Aspiring LLM Engineer | MSc Data Science | AWS AI Specialty  
-> 🔍 Actively seeking LLM Engineering opportunities in the UK
+> 🔍 **Actively seeking** LLM Engineering roles in the UK (Post-Study Work Visa ’26)
 
 🔭 **Current Focus:**  
 Working on to finetune a small Open Source LLM model to answer Q&A about a company just by providing the URL.
