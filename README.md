@@ -13,12 +13,18 @@ Working on to finetune a small Open Source LLM model to answer Q&A about a compa
 – Transformer fine-tuning pipelines  
 – Hugging Face tokenization & model‐optimization  
 – Productionizing LLM APIs
+
 – Retrival Augement Generation
+
 – Implementing Multi Modal Chat with Gradio
 – Evaluavating Open Source and Frontier Models
+
 – Evaluvating models for specific project using Scale, Hugging Face and Vellum leaderboards
+
 – Generating Meeting Minutes using LLM Audio file
+
 – Generating company website brochure usinf the data from their website (Scraping/Prompting/Producing a Brochure) based on the audiance
+
 
 📫 **Get in Touch:**  
 [✉️ korarishi@gmail.com](mailto:korarishi@gmail.com) • [LinkedIn](https://www.linkedin.com/in/rishikora/) • [GitHub](https://github.com/Rishi-Kora)  
