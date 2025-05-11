@@ -1,5 +1,5 @@
 # Hi, I’m **Rishi Kora** 👋  
-#### Aspiring LLM Engineer | MSc Data Science | AWS ML Specialty  
+#### Aspiring LLM Engineer | MSc Data Science | AWS AI Specialty  
 
 🔭 **Current Focus:**  
 Working on to finetune a small Open Source LLM model to answer Q&A about a company just by providing the URL.
