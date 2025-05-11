@@ -1,4 +1,7 @@
-![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen)
+![Python](https://img.shields.io/badge/python-v3.10-blue)
+![HuggingFace](https://img.shields.io/badge/hugging%20face-v4.30-orange)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen)
+
 # Hi, I’m **Rishi Kora** 👋  
 #### Aspiring LLM Engineer | MSc Data Science | AWS AI Specialty  
 > 🔍 **Actively seeking** LLM Engineering roles in the UK (Post-Study Work Visa ’26)
@@ -18,12 +21,12 @@ I’m actively looking for roles in LLM Engineering—fine-tuning, RAG systems, 
 –  Transformer fine-tuning pipelines  
 –  Hugging Face tokenization & model‐optimization  
 –  Productionizing LLM APIs<br>
-–  Retrieval Augment Generation, LangChain, Vector Database<br>
+–  Retrieval-Augmented Generation (RAG), LangChain, Vector Database<br>
 –  Implementing Multi Modal Chat with Gradio<br>
-–  Evaluating Open Source and Frontier Models<br>
+–  Evaluating frontier & open-source models<br>
 –  Evaluvating models for specific project using Scale, Hugging Face and Vellum leaderboards<br>
 –  Generating Meeting Minutes using LLM Audio file<br>
-–  Generating company website brochure usinf the data from their website (Scraping/Prompting/Producing a Brochure) based on the audiance<br>
+–  Creating audience-specific brochures via scraping & prompting<br>
 
 
 📫 **Get in Touch:**  
