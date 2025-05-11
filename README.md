@@ -29,8 +29,8 @@ I’m actively looking for roles in LLM Engineering—fine-tuning, RAG systems, 
 –  Creating audience-specific brochures via scraping & prompting<br>
 
 
-📫 **Get in Touch:**  
-[✉️ korarishi@gmail.com](mailto:korarishi@gmail.com) • [LinkedIn](https://www.linkedin.com/in/rishikora/) • [GitHub](https://github.com/Rishi-Kora)  
+📫 **Connect:**  
+[✉️ korarishi@gmail.com](mailto:korarishi@gmail.com) • [LinkedIn](https://www.linkedin.com/in/rishikora/) • [GitHub](https://github.com/Rishi-Kora)
 
 
 
