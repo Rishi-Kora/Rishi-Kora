@@ -9,7 +9,7 @@ Working on to finetune a small Open Source LLM model to answer Q&A about a compa
 – Build Autonomous Multi-Agent Systems  using Multi-Agent AI Architecture
 
 
-👯 **Open to Collaborate On:**  
+👯 **Open to Collaborate On:**  <br><br>
 – Transformer fine-tuning pipelines  
 – Hugging Face tokenization & model‐optimization  
 – Productionizing LLM APIs<br>
