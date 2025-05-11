@@ -12,15 +12,15 @@ Working on to finetune a small Open Source LLM model to answer Q&A about a compa
 
 
 👯 **Open to Collaborate On:**  <br><br>
-– Transformer fine-tuning pipelines  
-– Hugging Face tokenization & model‐optimization  
-– Productionizing LLM APIs<br>
-– Retrival Augement Generation<br>
-– Implementing Multi Modal Chat with Gradio<br>
-– Evaluavating Open Source and Frontier Models<br>
-– Evaluvating models for specific project using Scale, Hugging Face and Vellum leaderboards<br>
-– Generating Meeting Minutes using LLM Audio file<br>
-– Generating company website brochure usinf the data from their website (Scraping/Prompting/Producing a Brochure) based on the audiance<br>
+–  Transformer fine-tuning pipelines  
+–  Hugging Face tokenization & model‐optimization  
+–  Productionizing LLM APIs<br>
+–  Retrival Augement Generation<br>
+–  Implementing Multi Modal Chat with Gradio<br>
+–  Evaluavating Open Source and Frontier Models<br>
+–  Evaluvating models for specific project using Scale, Hugging Face and Vellum leaderboards<br>
+–  Generating Meeting Minutes using LLM Audio file<br>
+–  Generating company website brochure usinf the data from their website (Scraping/Prompting/Producing a Brochure) based on the audiance<br>
 
 
 📫 **Get in Touch:**  
@@ -78,7 +78,7 @@ Working on to finetune a small Open Source LLM model to answer Q&A about a compa
 ## 🎓 Education & Certifications
 
 - **MSc Data Science**, University of Essex (2024)  
-- **AWS Certified Machine Learning – Specialty** (2025)  
+- **AWS AI Practioner**  
 
 
 
