@@ -35,7 +35,7 @@ I’m actively looking for roles in LLM Engineering—fine-tuning, RAG systems, 
 
 ## 🚀 Core Skills
 
-| **Modeling & NLP**         | **Machine Learning         | **Languages & Tools**      |
+| **Modeling & NLP**         | **Machine Learning**        | **Languages & Tools**      |
 | -------------------------- | -------------------------- | -------------------------- |
 | • Transformers (BERT, GPT) | • Supervised ML            | • Python, JavaScript       |
 | • Prompt Engineering       | • UnSupervised ML          | • PyTorch, Vector Database      |
