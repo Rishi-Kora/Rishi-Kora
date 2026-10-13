@@ -45,7 +45,7 @@ Sorted Trader collapses that into one platform, with an agent-accessible interfa
 - **Trust & Visualisation** — Validation toggle giving users real-time visibility into AI accuracy, plus Plotly charts generated from natural-language prompts.
 - **AI Speech-to-Form** — Voice-driven data entry for field adjusters (SpeechRecognition + AWS Nova Pro), converting unstructured audio into structured JSON with custom U.S.-state normalisation.
 
-### AI Engineer - Sorted Cars LTD. *(Jul 2026 - Present)*
+### AI Engineer - Sorted Cars LTD, United Kingdom *(Jul 2026 - Present)*
 
 - UK automotive data platform providing vehicle history, MOT, valuation, provenance and market intelligence through data-driven vehicle reports.
 - **Contributing to the development of AI and data-driven solutions that transform complex automotive data into actionable insights for vehicle analysis and decision-making.**
